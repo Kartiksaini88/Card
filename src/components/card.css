@@ -1,0 +1,47 @@
+.main-div{
+    width: 55%;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(255,165,0);
+}
+.main-apple-div{
+    width: 55%;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(245,245,245)
+
+}
+.flex-div{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+}
+.margin-div > div{
+    margin-top: 40px;
+}
+.right-side-div{
+    margin-top: 200px;
+}
+
+.a{
+    margin-top: 50px;
+}
+.border-div {
+  
+    height: 60px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    text-align:center;
+
+    
+
+  
+    
+}
+
+.h3{
+    padding-top: 15px;
+}
